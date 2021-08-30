@@ -9,7 +9,7 @@
     "start-server": "node app.js"
   },
   "author": "Gabriel Figueira",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "^1.18.3"
   },
@@ -17,10 +17,6 @@
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
     "express": "^4.16.3",
-    "express-handlebars": "^3.0.0",
-    "pug": "^2.0.3"
-  },
-  "nodemonConfig": {
-    "ignore": ["data/*.json"]
+    "express-handlebars": "^3.0.0"
   }
 }
