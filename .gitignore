@@ -1,2 +1,4 @@
 node_modules
 play.js
+data/cart.json
+data/products.json
